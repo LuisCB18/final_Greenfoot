@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Men\u00FA\ para\ poder\ acceder\ al\ juego\ o\ salir\ del\ juego.\r\n\ \r\n\ Luis\ Gerardo\ Contreras\ Barrios\r\n\ \r\n
+comment1.params=
+comment1.target=Menu()
+comment2.params=
+comment2.target=void\ prepararMundo()
+comment3.params=
+comment3.target=void\ act()
+numComments=4
